@@ -1,0 +1,8 @@
+[
+  {
+    "package": "ckanr",
+    "url": "https://github.com/ropensci/ckanr",
+    "via": ["opendatatoronto"],
+    "from": "opendatatoronto"
+  }
+]
