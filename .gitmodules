@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "opendatatoronto"]
-	path = opendatatoronto
-	url = https://github.com/sharlagelfand/opendatatoronto
-	shallow = true
-	registered = true
 [submodule "ckanr"]
 	path = ckanr
 	url = https://github.com/ropensci/ckanr
