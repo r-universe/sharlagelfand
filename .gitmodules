@@ -8,8 +8,3 @@
 	url = https://github.com/sharlagelfand/opendatatoronto
 	shallow = true
 	registered = true
-[submodule "ckanr"]
-	path = ckanr
-	url = https://github.com/ropensci/ckanr
-	shallow = true
-	registered = false
